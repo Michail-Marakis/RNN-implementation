@@ -75,7 +75,7 @@ Models are evaluated on the test set using:
 ## Results
 - Analytic results can be found in: https://drive.google.com/drive/folders/1p0zjjSEbGFUO3WnQ5tjgVsMRTmLMrVUF?usp=drive_link
 
-## Technologies Used
+## Language and libraries Used
 
 - Python
 - PyTorch
